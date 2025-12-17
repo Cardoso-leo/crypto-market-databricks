@@ -49,11 +49,6 @@ REST API (Coinbase)
  ├── 02_tratamento_silver_crypto.py
  └── 03_analise_gold_crypto.py
 
-📁 images/
- ├── dashboard_overview.png
- ├── dashboard_filter.png
- └── market_cap_chart.png
-
 📄 README.md
 
 🔄 Pipeline de Dados
